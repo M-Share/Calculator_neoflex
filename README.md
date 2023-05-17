@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/0KRDVHj/Howto-Calculation.png" width="726">
+      <img src="https://i.ibb.co/Mg13NN8/Howto-Calculation.png" width="726">
 </p>
 
 <p align="center">
