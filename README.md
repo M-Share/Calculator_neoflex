@@ -15,7 +15,7 @@ This calculator is designed for educational practice. It can perform functions s
 
 ## Documentation
 
- <img src="https://camo.githubusercontent.com/6015d5eac91ba45fc4c3a0a60b7bfb1c4ae9a7bbc724faa4a88e71fbfdc9d5f5/68747470733a2f2f692e6962622e636f2f785834343437592f30332d30352d323032332d3231323733332e6a7067" width="726">
+ <img src="https://i.ibb.co/4dyTq9R/Documentation.png" width="726">
 
 ## Technology stack
 
